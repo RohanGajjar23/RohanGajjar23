@@ -58,6 +58,10 @@ Available for freelance projects
 
 ### DeCipher Word Puzzle
 
+<p align="center">
+  <img src="assets/decipher/gameplay1.png" alt="DeCipher Word Puzzle preview" width="320" />
+</p>
+
 A portrait-first Unity word puzzle game built around daily challenge loops, cloud-backed progression, and monetized player retention.
 
 - Built level-based and daily puzzle systems with trusted UTC rotation and leaderboard support.
@@ -71,8 +75,13 @@ A portrait-first Unity word puzzle game built around daily challenge loops, clou
 ![WebGL](https://img.shields.io/badge/WebGL-166534?style=flat&logo=webgl&logoColor=bbf7d0)
 
 **Primary link:** [View on App Store](https://apps.apple.com/us/app/decipher-word-puzzle/id6760719525)
+**Portfolio page:** [DeCipher Word Puzzle](https://rohangajjar.vercel.app/projects/decipher-word-puzzle)
 
 ### Impostor Party - Multiplayer
+
+<p align="center">
+  <img src="assets/Impostor Party Game/Thumbnail.png" alt="Impostor Party preview" width="320" />
+</p>
 
 A social-deduction Unity party game designed for private rooms, live voice chat, and synchronized multiplayer rounds.
 
@@ -86,8 +95,13 @@ A social-deduction Unity party game designed for private rooms, live voice chat,
 ![Multiplayer](https://img.shields.io/badge/Multiplayer-166534?style=flat&logoColor=bbf7d0)
 
 **Primary link:** [View on App Store](https://apps.apple.com/us/app/imposter-party-multiplayer/id6756916475)
+**Portfolio page:** [Impostor Party - Multiplayer](https://rohangajjar.vercel.app/projects/impostor-party-multiplayer)
 
 ### Your Stupid Monkey Pet
+
+<p align="center">
+  <img src="assets/YourStupidMonkeyPetGame/YSMPG - 1.png" alt="Your Stupid Monkey Pet preview" width="320" />
+</p>
 
 A social pet game for Telegram WebGL, Android, and iOS centered on room interactions, mini-games, and persistent progression.
 
@@ -101,6 +115,7 @@ A social pet game for Telegram WebGL, Android, and iOS centered on room interact
 ![Mobile](https://img.shields.io/badge/Mobile-166534?style=flat&logo=android&logoColor=bbf7d0)
 
 **Primary link:** [Open Build](https://yourstupidmonkeypet.stupidmonkeys.io/)
+**Portfolio page:** [Your Stupid Monkey Pet](https://rohangajjar.vercel.app/projects/your-stupid-monkey-pet)
 
 ### Also shipped outside games
 
@@ -117,6 +132,7 @@ A production Flutter app that shows I can also ship secure, connected client sof
 ![AWS](https://img.shields.io/badge/AWS-052e16?style=flat&logo=amazonaws&logoColor=bbf7d0)
 
 **Primary link:** [View on Google Play](https://play.google.com/store/apps/details?id=com.rgstudios.rohanstaxservicescloud)
+**Portfolio page:** [Rohan's Tax Services](https://rohangajjar.vercel.app/projects/rohan-tax-services)
 
 ## Current focus
 
@@ -173,8 +189,12 @@ If you need help with a game, multiplayer feature set, or a polished release pus
 - Fiverr: [Book a freelance project](https://www.fiverr.com/s/7Yzg7zx)
 - Email: [rohan.n.gajjar@gmail.com](mailto:rohan.n.gajjar@gmail.com)
 - DeCipher Word Puzzle: [App Store](https://apps.apple.com/us/app/decipher-word-puzzle/id6760719525)
+- DeCipher Word Puzzle: [Portfolio page](https://rohangajjar.vercel.app/projects/decipher-word-puzzle)
 - Impostor Party - Multiplayer: [App Store](https://apps.apple.com/us/app/imposter-party-multiplayer/id6756916475)
+- Impostor Party - Multiplayer: [Portfolio page](https://rohangajjar.vercel.app/projects/impostor-party-multiplayer)
 - Your Stupid Monkey Pet: [Open Build](https://yourstupidmonkeypet.stupidmonkeys.io/)
+- Your Stupid Monkey Pet: [Portfolio page](https://rohangajjar.vercel.app/projects/your-stupid-monkey-pet)
 - Rohan's Tax Services: [Google Play](https://play.google.com/store/apps/details?id=com.rgstudios.rohanstaxservicescloud)
+- Rohan's Tax Services: [Portfolio page](https://rohangajjar.vercel.app/projects/rohan-tax-services)
 
 </details>
