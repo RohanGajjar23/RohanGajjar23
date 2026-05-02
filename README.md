@@ -1,21 +1,32 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:12345a,100:0b1728&height=300&section=header&text=Hi,%20I'm%20Rohan&fontSize=68&fontColor=f3f7ff&animation=fadeIn&fontAlignY=38&desc=Unity%20game%20developer%20%E2%80%A2%20multiplayer%20systems%20%E2%80%A2%20shipping%20polished%20games&descSize=20&descAlignY=55)](https://github.com/RohanGajjar23)
+[![Header](https://capsule-render.vercel.app/api?type=rect&color=0:00140f,50:062b1f,100:0a3d2c&height=300&section=header&text=Hi,%20I%27m%20Rohan&fontSize=68&fontColor=cfffe8&animation=fadeIn&fontAlignY=38&desc=Unity%20game%20developer%20%E2%80%A2%20multiplayer%20systems%20%E2%80%A2%20shipping%20polished%20games&descSize=20&descAlignY=56)](https://github.com/RohanGajjar23)
 
 # aka RohanGajjar23 github profile
 
-![Profile views](https://komarev.com/ghpvc/?username=RohanGajjar23&label=Profile%20views&color=1f6feb&)
-![GitHub followers](https://img.shields.io/github/followers/RohanGajjar23?style=flat&logo=github&label=Followers&color=0f766e)
-![GitHub stars](https://img.shields.io/github/stars/RohanGajjar23?style=flat&logo=github&label=Stars&color=f59e0b)
+![Profile views](https://komarev.com/ghpvc/?username=RohanGajjar23&label=Profile%20views&color=14532d&)
+![GitHub followers](https://img.shields.io/github/followers/RohanGajjar23?style=flat&logo=github&label=Followers&color=166534)
+![GitHub stars](https://img.shields.io/github/stars/RohanGajjar23?style=flat&logo=github&label=Stars&color=15803d)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=720&lines=Unity+gameplay+systems;multiplayer+flows+with+Photon;mobile%2C+WebGL%2C+and+release+polish;freelance+delivery+for+real+clients" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=86EFAC&center=true&vCenter=true&repeat=true&width=760&lines=%24+whoami;Rohan+Gajjar+-+Unity+Game+Developer;%24+focus;multiplayer+systems+%7C+mobile+%7C+WebGL;%24+status;available+for+freelance+projects" alt="Typing SVG" />
 </p>
+
+```bash
+$ location
+Ahmedabad, India
+
+$ stack
+Unity / C# / Photon / Firebase / Supabase / Flutter / .NET / AWS
+
+$ mission
+Build games that feel good, scale cleanly, and ship polished.
+```
 
 ## About me -- Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0b1728?style=flat&logo=vercel&logoColor=ffffff)](https://rohangajjar.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-052e16?style=flat&logo=vercel&logoColor=bbf7d0)](https://rohangajjar.vercel.app/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=ffffff)](https://www.fiverr.com/s/7Yzg7zx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rohan-gajjar-7935ba220/)
-[![Email](https://img.shields.io/badge/Email-rohan.n.gajjar%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=ffffff)](mailto:rohan.n.gajjar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rohan.n.gajjar%40gmail.com-14532d?style=flat&logo=gmail&logoColor=bbf7d0)](mailto:rohan.n.gajjar@gmail.com)
 
 - Portfolio: <a href="https://rohangajjar.vercel.app/" target="_blank">rohangajjar.vercel.app</a>
 - Fiverr: <a href="https://www.fiverr.com/s/7Yzg7zx" target="_blank">Primary freelance channel</a>
@@ -27,8 +38,12 @@
 > I care about making games feel good to play, not just making them technically work.
 
 <div class="badges-githubstats">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohanGajjar23&show_icons=true&hide_border=true&count_private=true&bg_color=111,07111f,0b1728&title_color=60a5fa&text_color=f3f7ff&icon_color=2dd4bf&border_color=131313&border_radius=10" alt="Rohan's github statistics" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanGajjar23&hide_border=true&background=07111f&border=131313&stroke=93c5fd&ring=f59e0b&fire=f97316&currStreakNum=f3f7ff&currStreakLabel=60a5fa&sideNums=f3f7ff&sideLabels=60a5fa&dates=dbeafe&border_radius=10" alt="Rohan's github commit streak" height="140" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RohanGajjar23&theme=github_dark" alt="Rohan's github statistics" />
+</div>
+
+<div class="badges-githubstats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanGajjar23&hide_border=true&background=00140f&border=0f2a20&stroke=166534&ring=22c55e&fire=4ade80&currStreakNum=d1fae5&currStreakLabel=86efac&sideNums=d1fae5&sideLabels=86efac&dates=bbf7d0&border_radius=10" alt="Rohan's github commit streak" height="140" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RohanGajjar23&theme=github_dark" alt="Top Languages" height="140" />
 </div>
 
 ## What I do now
@@ -39,7 +54,7 @@
 - Freelance with fast iteration, clear communication, and a bias toward features that can actually ship ![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=ffffff)
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanGajjar23&layout=compact&bg_color=111,07111f,0b1728&title_color=60a5fa&text_color=f3f7ff&hide_border=true&border_radius=10&border_color=131313" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RohanGajjar23&theme=github_dark" alt="Top Languages by repo" />
 </div>
 
 ## I can help with
